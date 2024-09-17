@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Rishi
+![Profile Views](https://komarev.com/ghpvc/?username=ATG-AVI&color=blue)
 
-<!--
-**R2005ishi/R2005ishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student at SRM Institute of Science and Technology**  
+🖥️ **Passionate about Software Development and Design**  
+🌱 **Currently learning Flutter for App Development**  
+💬 **Ask me about:** C, C++, Python, Java,HTML, CSS, Figma,  and more!
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools:**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Wev Devlopment](https://img.shields.io/badge/-Web%20Devlopment-3DDC84?style=flat-square&logo=WEB-DEVPOLMENT&logoColor=white)
+
+## 🌐 Find me around the web 🌍
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-agrawal)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:agrawalrishi2005@gmail.com)
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ATG-AVI&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATG-AVI&layout=compact&theme=radical)
+
+## 🤝 Contributions
+- Contributing to various open-source projects
+- Active participation in coding communities
