@@ -3,7 +3,7 @@
 
 🎓 **Student at SRM Institute of Science and Technology**  
 🖥️ **Passionate about Software Development and Design**  
-🌱 **Currently learning Flutter for App Development**  
+🌱 **Currently learning  Web Development**  
 💬 **Ask me about:** C, C++, Python, Java,HTML, CSS, Figma,  and more!
 
 ## 🛠️ Skills
