@@ -22,7 +22,7 @@
 ![Wev Devlopment](https://img.shields.io/badge/-Web%20Devlopment-3DDC84?style=flat-square&logo=WEB-DEVPOLMENT&logoColor=white)
 
 ## 🌐 Find me around the web 🌍
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rishi-agrawal-745003255)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-agrawal-745003255)
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:agrawalrishi2005@gmail.com)
 
 ## 📈 GitHub Stats
